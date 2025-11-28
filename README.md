@@ -1,3 +1,7 @@
+<p align="center"><sub><i>
+"There is as yet insufficient data for a meaningful answer."
+</i></sub></p>
+
 # Salve, Yiyoung here!
 
 I am a freshman studying Information Systems at Carnegie Mellon University (CMU), hoping to get a minor in Computer Science as well. <br>
@@ -24,3 +28,11 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 
 ## Favorite Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<p align="center"><sub><i>
+"Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: άποθανεῖν θέλω."
+</i><sub></p>
+
+---
