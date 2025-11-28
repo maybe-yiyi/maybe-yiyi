@@ -19,6 +19,7 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 
 ## What I'm up to
 * Working on a CMU Discord bot to help with courses, dining locations, and other fun features
+* A rewrite of my chaotic attractor simulator because I am a better person now and have good ideas
 * suffering in school
 
 ## Favorite Languages
