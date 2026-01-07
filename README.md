@@ -2,7 +2,7 @@
 "There is as yet insufficient data for a meaningful answer."
 </i></sub></p>
 
-# Salve, ego Yiyoung sum!
+# Hey, I'm Yiyoung!
 
 I am a freshman studying Information Systems at Carnegie Mellon University (CMU), hoping to get a minor in Computer Science as well. <br>
 I'm interested in computer systems, emergent intelligence, and computer graphics! <br>
