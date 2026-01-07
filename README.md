@@ -29,7 +29,7 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 * suffering in school
 
 ## Favorite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <p align="center"><sub><i>
 "Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: άποθανεῖν θέλω."
