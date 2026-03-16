@@ -8,23 +8,14 @@ I am a freshman studying Information Systems at Carnegie Mellon University (CMU)
 I'm interested in computer systems, emergent intelligence, and computer graphics! <br>
 I would also totally be studying physics (quantum mechanics & co.) if I wasn't studying tech.
 
-## Things I love studying
-* Quantum mechanics (specifically QFT and particle physics)
-* Algebra and analysis (specifically category theory and functional analysis)
-* Languages (Ancient Greek right now)
-* Biochem (specifically metabolic processes)
-* Of course, computer science (computer systems and graphics)
-
-## Things I don't love studying
-* Algorithms
-* Statistical mechanics
-* Number theory
-* Fluid mechanics
-
 ## What I'm up to
+* Designing the database for a voting app to be used by the undergraduate Senate + other student orgs.
+* Waiting on Design @ ScottyLabs to finish the frontend of the UC Bus Sign
+* Writing the frontend of CMU Housing
+* Rewriting all of the frontend of CMU Courses (a lot of frontend, wow!)
 * Working on a CMU Discord bot to help with courses, dining locations, and other fun features
 * Helping with the CMIMC websites
-* Becoming a theoretician
+* Of course, school
 
 ## Favorite Languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/pranesh-2005/github-readme-stats-fast)
