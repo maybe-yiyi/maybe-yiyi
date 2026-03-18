@@ -15,6 +15,7 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 * Rewriting all of the frontend of CMU Courses (a lot of frontend, wow!)
 * Working on a CMU Discord bot to help with courses, dining locations, and other fun features
 * Helping with the CMIMC websites
+* Helping Pittsburghers for Public Transport with Tech4Society with their data collection needs
 * Of course, school
 
 ## Favorite Languages
