@@ -18,6 +18,13 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 * Helping Pittsburghers for Public Transport with Tech4Society with their data collection needs
 * Of course, school
 
+## (External) Projects
+- [Dalmatian](https://github.com/ScottyLabs/dalmatian)
+- [Bus Sign](https://github.com/ScottyLabs/bus-sign)
+- [Poodle](https://github.com/ScottyLabs/voting-app)
+- [CMUCourses](https://github.com/ScottyLabs/courses-frontend)
+- [CMUHousing](https://github.com/ScottyLabs/cmuhousing)
+
 ## Favorite Languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
