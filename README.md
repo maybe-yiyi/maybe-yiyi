@@ -22,7 +22,7 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 - [Dalmatian](https://github.com/ScottyLabs/dalmatian)
 - [Bus Sign](https://github.com/ScottyLabs/bus-sign)
 - [Poodle](https://github.com/ScottyLabs/voting-app)
-- [CMUCourses](https://github.com/ScottyLabs/courses-frontend)
+- [CMUCourses](https://github.com/ScottyLabs/courses)
 - [CMUHousing](https://github.com/ScottyLabs/cmuhousing)
 
 ## Favorite Languages
