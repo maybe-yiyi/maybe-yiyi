@@ -19,10 +19,9 @@ I would also totally be studying physics (quantum mechanics & co.) if I wasn't s
 
 ## (External) Projects
 - [Dalmatian](https://github.com/ScottyLabs/dalmatian)
-- [Bus Sign](https://github.com/ScottyLabs/bus-sign)
 - [Poodle](https://github.com/ScottyLabs/voting-app)
 - [CMUCourses](https://github.com/ScottyLabs/courses)
-- [CMUHousing](https://github.com/ScottyLabs/cmuhousing)
+- [Bus Sign](https://github.com/ScottyLabs/bus-sign)
 
 ## Favorite Languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maybe-yiyi)](https://github.com/pranesh-2005/github-readme-stats-fast)
